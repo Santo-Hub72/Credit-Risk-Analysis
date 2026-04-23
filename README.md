@@ -14,13 +14,14 @@ The dataset has around 32,000 loans from Kaggle. Everything here data cleaning, 
 2. Is income a good predictor of default, or are there better ones?
 3. How does the portfolio's default rate compare to what's considered healthy in banking?
 4. If I were advising this bank, what would I change about their lending?
+5. single-page executive dashboard summarizing portfolio risk across loan grade, loan purpose, and home ownership.
 
 ---
 
 # Tools used
 
 Microsoft SQL Server (T-SQL) and ive used the window functions, CTEs, aggregations, CASE-based segmentation properly in this project.
-no Power BI (yet — that's the next step).
+single-page executive dashboard built on the SQL findings.
 
 ---
 
@@ -78,14 +79,14 @@ A few things that stood out:
 
 ## Files in this repo
 
-| `credit_risk_Analysis_project.sql` | The full SQL script — cleaning through to final findings, with my notes in comments |
+| `credit_risk_Analysis_project.sql` | The full SQL script — cleaning through to final findings, with my notes in comments 
+| `credit_risk_dashboard.pbix` | Power BI dashboard file |
+| `dashboard_preview.png` | Screenshot of the dashboard |
 | `README.md` | This file |
 
 ---
 
 ## What's next
-
-- Building a Power BI dashboard on top of this to make the findings interactive
 - Adding a loan grade × income cross-analysis
 - Eventually trying a predictive model (logistic regression) on the cleaned data
 
