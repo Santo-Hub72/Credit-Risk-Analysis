@@ -113,3 +113,5 @@ Worth being upfront about the limits:
 I'm Santo P Thomas — MSc Business Analytics graduate based in Ireland, currently working through the FRM certification with the goal of moving into credit risk or risk analytics. This is one of a few projects I'm building as part of that pivot.
 
 Open to entry-level roles in **Credit Risk**, **Risk Reporting**, and **Model Validation**.
+**email - santopthomas777@gmail.com**
+**Linkedin -www.linkedin.com/in/santo-p-thomas**
