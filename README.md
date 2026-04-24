@@ -44,7 +44,7 @@ The SQL file follows a proper flow rather than jumping around:
 
 **Then exploration.** Started with portfolio-wide averages — age, income, loan size, interest rate, DTI, default rate — to get a feel for who the typical borrower is.
 
-**Then magnitude analysis.** Broke the portfolio down by loan intent, loan grade, home ownership, and prior default history, looking at averages across each group. This is where a lot of the interesting patterns first showed up — like Grade F and G borrowers earning the most but defaulting the most.
+**Then magnitude Analysis.** Broke the portfolio down by loan intent, loan grade, home ownership, and prior default history, looking at averages across each group. This is where a lot of the interesting patterns first showed up — like Grade F and G borrowers earning the most but defaulting the most.
 
 **Then ranking Analysis.** Which segments are the riskiest by default rate and interest rate?
 
